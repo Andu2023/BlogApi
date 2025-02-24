@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AnduA\\Blog\\src\\API\\API.csproj": {}
+    "c:\\AnduA\\Blog\\src\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\AnduA\\Blog\\src\\API\\API.csproj": {
+    "c:\\AnduA\\Blog\\src\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AnduA\\Blog\\src\\API\\API.csproj",
+        "projectUniqueName": "c:\\AnduA\\Blog\\src\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\AnduA\\Blog\\src\\API\\API.csproj",
+        "projectPath": "c:\\AnduA\\Blog\\src\\API\\API.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\AnduA\\Blog\\src\\API\\obj\\",
+        "outputPath": "c:\\AnduA\\Blog\\src\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
