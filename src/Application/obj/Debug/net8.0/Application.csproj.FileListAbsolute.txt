@@ -1,0 +1,12 @@
+C:\AnduA\Blog\src\Application\bin\Debug\net8.0\Application.deps.json
+C:\AnduA\Blog\src\Application\bin\Debug\net8.0\Application.dll
+C:\AnduA\Blog\src\Application\bin\Debug\net8.0\Application.pdb
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.dll
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\refint\Application.dll
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.pdb
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\ref\Application.dll
