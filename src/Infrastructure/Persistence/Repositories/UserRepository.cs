@@ -8,8 +8,6 @@ namespace Infrastructure.Persistence.Repositories;
 
 public class UserRepository(BlogDbContext blogDbContext) : GenericRepository<User>(blogDbContext), IUserRepository
 {
-    
-
     public async Task<User?> GetUserByEmailAsync(string email)
     {
         return await blogDbContext.Users.FirstOrDefaultAsync(x=> x.Email == email);

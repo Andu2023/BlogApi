@@ -104,7 +104,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

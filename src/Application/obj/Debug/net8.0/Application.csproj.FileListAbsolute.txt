@@ -10,3 +10,7 @@ C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.dll
 C:\AnduA\Blog\src\Application\obj\Debug\net8.0\refint\Application.dll
 C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.pdb
 C:\AnduA\Blog\src\Application\obj\Debug\net8.0\ref\Application.dll
+C:\AnduA\Blog\src\Application\bin\Debug\net8.0\Domain.dll
+C:\AnduA\Blog\src\Application\bin\Debug\net8.0\Domain.pdb
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\AnduA\Blog\src\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date

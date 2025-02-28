@@ -11,9 +11,11 @@
     <Folder Include="DTO 'S\" />
     <Folder Include="Error\" />
     <Folder Include="Extensions\" />
-    <Folder Include="Interface\" />
-    <Folder Include="Services\" />
     <Folder Include="Validators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>
