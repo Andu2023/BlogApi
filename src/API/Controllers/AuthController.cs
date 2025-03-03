@@ -10,8 +10,8 @@ namespace API.Controllers
     [ApiController]
     public class AuthController(IAuthenticationService authenticationService) :BasApiController
     {
-        [HttpPost("register")]
-public async Task<IResult> Register(RegisterRequest registerRequest)
+//         [HttpPost("register")]
+// public async Task<IResult> Register(RegisterRequest registerRequest)
 {
 
  var response=await authenticationService.RegisterAsync(registerRequest);
