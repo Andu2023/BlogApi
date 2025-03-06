@@ -19,11 +19,11 @@ namespace API.Controllers
 
         }
 
-    [HttpPost("login")]
-public async Task<IResult> Login(LoginRequest loginRequest)
-{
+//     [HttpPost("login")]
+// public async Task<IResult> Login(LoginRequest loginRequest)
+// {
     
-            return Results.Ok();
-        }
+//             return Results.Ok();
+//         }
     }
 }
