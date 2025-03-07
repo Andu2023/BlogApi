@@ -76,3 +76,4 @@ C:\AnduA\Blog\src\API\bin\Debug\net8.0\Infrastructure.dll
 C:\AnduA\Blog\src\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\AnduA\Blog\src\API\bin\Debug\net8.0\Application.pdb
 C:\AnduA\Blog\src\API\bin\Debug\net8.0\Domain.pdb
+C:\AnduA\Blog\src\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

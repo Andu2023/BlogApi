@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {}
+    "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
+    "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj",
+        "projectPath": "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\AnduA\\Blog\\src\\Domain\\obj\\",
+        "outputPath": "c:\\AnduA\\Blog\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
