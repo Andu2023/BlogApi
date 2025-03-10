@@ -1,11 +1,12 @@
 using System;
+using Application.Common.Results;
 using Application.Models.Request;
 
 namespace Application.Interface;
 
 public interface IAuth
 {
-  Task<string>RegisterAsync( RegisterRequest registerRequest);
-  Task<string> LoginAsync(LoginRequest loginRequest);
+  Task<Result>RegisterAsync( RegisterRequest registerRequest);
+  Task<Result> LoginAsync(LoginRequest loginRequest);
 
 }

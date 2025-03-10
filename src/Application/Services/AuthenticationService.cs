@@ -1,6 +1,8 @@
 using System;
 using System.ComponentModel;
 using System.Linq.Expressions;
+using Application.Common.Results;
+using Application.Error;
 using Application.Interface;
 using Application.Models.Request;
 using Domain.Entities;
@@ -16,17 +18,17 @@ public class AuthenticationService(IUserRepository userRepository, IUnitOfWork u
         throw new NotImplementedException();
     }
 
-    public async Task<string> RegisterAsync(RegisterRequest registerRequest)
+    public async Task<Result> RegisterAsync(RegisterRequest registerRequest)
     {
         
         if (registerRequest == null){
-          throw new ArgumentNullException(nameof(registerRequest));
+          return Result.Failure(AuthError.InvalidRegisterRequest);
         }
         // Check if the user already exists
     var existingUser = await userRepository.GetUserByEmailAsync(registerRequest.Email);
     if (existingUser != null)
     {
-        throw new Exception("user already exit");
+          return Result.Failure(AuthError.UserAlreadyExist); ;
     }
         var user= new User
         {
@@ -37,7 +39,7 @@ public class AuthenticationService(IUserRepository userRepository, IUnitOfWork u
 
         await userRepository.AddAsync(user);
         await unitOfWork.CommitAsync();
-        return "sucsesfully register";
+        return Result.Success("sucsesfully register");
 
     }
 }
