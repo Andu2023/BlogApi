@@ -4,14 +4,14 @@
     "C:\\AnduA\\Blog\\src\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "c:\\AnduA\\Blog\\src\\Application\\Application.csproj": {
+    "C:\\AnduA\\Blog\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\AnduA\\Blog\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\AnduA\\Blog\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\AnduA\\Blog\\src\\Application\\Application.csproj",
+        "projectPath": "C:\\AnduA\\Blog\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "c:\\AnduA\\Blog\\src\\Application\\obj\\",
+        "outputPath": "C:\\AnduA\\Blog\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj"
+              "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
+    "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "c:\\AnduA\\Blog\\src\\Domain\\obj\\",
+        "outputPath": "C:\\AnduA\\Blog\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +158,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\AnduA\\Blog\\src\\Application\\Application.csproj": {
-                "projectPath": "c:\\AnduA\\Blog\\src\\Application\\Application.csproj"
+              "C:\\AnduA\\Blog\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\AnduA\\Blog\\src\\Application\\Application.csproj"
               },
-              "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\AnduA\\Blog\\src\\Domain\\Domain.csproj"
+              "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\AnduA\\Blog\\src\\Domain\\Domain.csproj"
               }
             }
           }
